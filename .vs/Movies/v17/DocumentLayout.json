@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\FLASH DRIVE BACK UP\\IT 205 DATA BASE 2\\Movies\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|C:\\Users\\Administrator\\Documents\\FLASH DRIVE BACK UP\\IT 205 DATA BASE 2\\Movies\\movies\\movieform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|c:\\users\\administrator\\documents\\it-205-activity-movies\\movies\\movieform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|solutionrelative:movies\\movieform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\movies\\movieform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|solutionrelative:movies\\movieform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|c:\\users\\administrator\\documents\\flash drive back up\\it 205 data base 2\\movies\\movies\\movieform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|solutionrelative:movies\\movieform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\movies\\databaseconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4C1FC794-A1AB-4472-AD4F-F0BA370F61C3}|Movies\\Movies.vbproj|solutionrelative:movies\\databaseconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConfig.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\Movies\\DatabaseConfig.vb",
+              "RelativeDocumentMoniker": "Movies\\DatabaseConfig.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\Movies\\DatabaseConfig.vb",
+              "RelativeToolTip": "Movies\\DatabaseConfig.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-16T12:30:38.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -27,27 +45,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "movieForm.vb",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\FLASH DRIVE BACK UP\\IT 205 DATA BASE 2\\Movies\\Movies\\movieForm.vb",
+              "Title": "movieForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\Movies\\movieForm.vb",
               "RelativeDocumentMoniker": "Movies\\movieForm.vb",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\FLASH DRIVE BACK UP\\IT 205 DATA BASE 2\\Movies\\Movies\\movieForm.vb",
-              "RelativeToolTip": "Movies\\movieForm.vb",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowDUAAAAFAAAA",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\Movies\\movieForm.vb [Design]",
+              "RelativeToolTip": "Movies\\movieForm.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-05-15T13:52:40.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T12:46:56.944Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "movieForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\FLASH DRIVE BACK UP\\IT 205 DATA BASE 2\\Movies\\Movies\\movieForm.vb",
+              "Title": "movieForm.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\Movies\\movieForm.vb",
               "RelativeDocumentMoniker": "Movies\\movieForm.vb",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\FLASH DRIVE BACK UP\\IT 205 DATA BASE 2\\Movies\\Movies\\movieForm.vb [Design]",
-              "RelativeToolTip": "Movies\\movieForm.vb [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\IT-205-Activity-Movies\\Movies\\movieForm.vb",
+              "RelativeToolTip": "Movies\\movieForm.vb",
+              "ViewState": "AQIAABEBAAAAAAAAAAAkwB0BAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-05-15T13:51:32.361Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-15T13:52:40.926Z",
+              "EditorCaption": ""
             }
           ]
         }
